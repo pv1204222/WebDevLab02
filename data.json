@@ -1,0 +1,26 @@
+[
+    {
+      "Type": "INTJ",
+      "Score": 87,
+      "TraitA": 78,
+      "TraitB": 65
+    },
+    {
+      "Type": "ENFP",
+      "Score": 80,
+      "TraitA": 68,
+      "TraitB": 72
+    },
+    {
+      "Type": "ISTJ",
+      "Score": 90,
+      "TraitA": 82,
+      "TraitB": 70
+    },
+    {
+      "Type": "ESFP",
+      "Score": 75,
+      "TraitA": 65,
+      "TraitB": 60
+    }
+  ]
